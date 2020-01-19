@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name" translatable="false">CipherIt</string>
+
+    <string name="plain_text_label">Plain text</string>
+    <string name="encrypted_text_label">Encrypted text</string>
+
+    <string name="passphrase_hint">Keyphrase</string>
+
+    <string name="copy_clipboard_success">copied to clipboard</string>
+    <string name="copy_clipboard_empty">There is no text to copy</string>
+
+    <string name="paste_clipboard_empty">There is no text to paste</string>
+
+    <string name="open_tool_ball_title">Open tool ball mode</string>
+
+    <string name="shortcut_short_label" translatable="false">CipherItBall</string>
+    <string name="shortcut_long_label">Open tool ball mode</string>
+    <string name="shortcut_disabled_message">Tool ball mode is not enabled</string>
+
+    <string name="encryption_algorithm" translatable="false">Advanced Encryption Standard 256-bit</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/rateus"
+        android:icon="@drawable/baseline_star_border_white_18dp"
+        android:title="RATE US"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/open_tool_ball"
+        android:icon="@drawable/ic_arrow_down"
+        android:title="@string/open_tool_ball_title"
+        app:showAsAction="always" />
+</menu>

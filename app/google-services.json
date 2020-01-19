@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "88671328569",
+    "firebase_url": "https://cipherit-f6e83.firebaseio.com",
+    "project_id": "cipherit-f6e83",
+    "storage_bucket": "cipherit-f6e83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88671328569:android:5754762d858468b4",
+        "android_client_info": {
+          "package_name": "io.hashloop.cipherit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88671328569-a0p8mufk0lstkbv0jlvq8g84i9clhtrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.hashloop.cipherit",
+            "certificate_hash": "723e661815c1e7cbd11945b4a7c9144f416b1cd4"
+          }
+        },
+        {
+          "client_id": "88671328569-hvhufun5vjrvgmc07lnviiijqovs2dj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_cv1acA9uym1wUw0gZXW-HE3vDX5L_Is"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88671328569-hvhufun5vjrvgmc07lnviiijqovs2dj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
